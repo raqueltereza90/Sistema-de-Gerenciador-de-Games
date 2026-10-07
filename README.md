@@ -48,3 +48,26 @@ Centralizar o gerenciamento de competições e partidas de games, permitindo:
 ---
 
 ## 📁 Estrutura do Projeto
+📁 gerenciador-de-games/
+├── index.html → Página principal
+├── jogadores.html → Cadastro e listagem de jogadores
+├── times.html → Gerenciamento de times
+├── pontuacoes.html → Registro de pontuações
+└── README.md → Documentação do projeto
+
+> 💡 Ajuste a estrutura acima conforme os arquivos reais do seu projeto.
+
+---
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** — estrutura das páginas
+- *(Adicione aqui outras tecnologias que você usar, como CSS, JavaScript, Python, etc.)*
+
+---
+
+## 🚀 Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/raqueltereza90/gerenciador-de-games.git
