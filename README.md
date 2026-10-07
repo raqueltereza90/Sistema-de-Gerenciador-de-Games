@@ -1,6 +1,6 @@
 # 🎮 Sistema de Gerenciador de Games
 
-Sistema para gerenciar **jogadores**, **times** e **pontuações** de games de forma simples e organizada.
+Sistema desenvolvido em **JavaScript** para gerenciar **jogadores**, **times** e **pontuações** de games de forma simples e organizada.
 
 ---
 
@@ -36,33 +36,24 @@ Centralizar o gerenciamento de competições e partidas de games, permitindo:
 
 ---
 
-## 🕹️ Como Usar
-
-1. Abra o arquivo `index.html` no navegador.
-2. **Cadastre os jogadores** informando nome, apelido e time.
-3. **Monte os times** com os jogadores cadastrados.
-4. **Registre as pontuações** de cada partida.
-5. **Atualize** pontuações conforme novas partidas acontecerem.
-6. **Consulte** a listagem para acompanhar o ranking.
-
----
-
 ## 📁 Estrutura do Projeto
-📁 gerenciador-de-games/
-├── index.html → Página principal
-├── jogadores.html → Cadastro e listagem de jogadores
-├── times.html → Gerenciamento de times
-├── pontuacoes.html → Registro de pontuações
+📁 Sistema-de-Gerenciador-de-Games/
+├── entrada-de-Dados.js → Entrada de dados do usuário
+├── tomada-decisões.js → Lógica de decisões do sistema
+├── variáveis.js → Declaração e uso de variáveis
+├── teste.js → Arquivo de testes
+├── package.json → Configuração do projeto Node.js
+├── package-lock.json → Versões exatas das dependências
 └── README.md → Documentação do projeto
 
-> 💡 Ajuste a estrutura acima conforme os arquivos reais do seu projeto.
 
 ---
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** — estrutura das páginas
-- *(Adicione aqui outras tecnologias que você usar, como CSS, JavaScript, Python, etc.)*
+- **JavaScript** — linguagem principal do projeto
+- **Node.js** — ambiente de execução
+- **npm** — gerenciador de pacotes (arquivos `package.json` e `package-lock.json`)
 
 ---
 
@@ -70,4 +61,4 @@ Centralizar o gerenciamento de competições e partidas de games, permitindo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/raqueltereza90/gerenciador-de-games.git
+   git clone https://github.com/raqueltereza90/Sistema-de-Gerenciador-de-Games.git
